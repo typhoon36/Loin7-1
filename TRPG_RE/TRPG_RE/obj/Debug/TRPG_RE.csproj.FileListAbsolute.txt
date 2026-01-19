@@ -1,0 +1,16 @@
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\bin\Debug\TRPG_RE.exe.config
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\bin\Debug\TRPG_RE.exe
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\bin\Debug\TRPG_RE.pdb
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.exe
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.pdb
+C:\Users\strom\Desktop\문서\BootCamp\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.exe.config
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\bin\Debug\TRPG_RE.exe.config
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\bin\Debug\TRPG_RE.exe
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\bin\Debug\TRPG_RE.pdb
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.csproj.AssemblyReference.cache
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.exe.config
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.csproj.CoreCompileInputs.cache
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.exe
+C:\Users\strom\Desktop\TRPG_RE\TRPG_RE\obj\Debug\TRPG_RE.pdb
