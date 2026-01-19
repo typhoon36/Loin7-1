@@ -30,7 +30,7 @@ namespace TRPG_RE
         //데이터 설정(플레이어,몬스터,아이템)
         static void SetData()
         {
-            player = new Player(1, 10, "Character", "전사", 10, 5, 50, 1000, 0, 20);
+            player = new Player(1, 10, "Character", "전사", 10, 5, 50, 10000, 0, 20);
 
             itemDb = new Item[]
             {
